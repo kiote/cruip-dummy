@@ -1,0 +1,104 @@
+{
+    "posts": [
+        {
+            "title": "Love productivity? Level up your focus and personal time with the seven best calendar apps of 2022.",
+            "slug": "/post",
+            "votes": 244,
+            "author": "IndieMark",
+            "authorImage": "https://",
+            "date": "24 Feb",
+            "comments": 13,
+            "commenters": ["https://", "https://"]
+        },
+        {
+            "title": "Do you form a company for each indie project or have one and they all sit under 1?",
+            "slug": "/post",
+            "votes": 226,
+            "author": "1udomk",
+            "authorImage": "https://",
+            "date": "22 Feb",
+            "comments": 37,
+            "commenters": ["https://", "https://"]
+        },
+        {
+            "title": "I built and sold two small SaaS businesses and quit my job in the last two years — #AskMeAnything",
+            "slug": "/post",
+            "votes": 222,
+            "author": "MaryLync77",
+            "authorImage": "https://",
+            "date": "22 Feb",
+            "comments": 14,
+            "commenters": ["https://", "https://"]
+        },
+        {
+            "title": "First explore, then exploit - A simple framework that helped me reach $5000 revenue 🎉",
+            "slug": "/post",
+            "votes": 220,
+            "author": "Zakaria_C",
+            "authorImage": "https://",
+            "date": "21 Feb",
+            "comments": 14,
+            "commenters": ["https://", "https://"]
+        },
+        {
+            "title": "Hey founders, how are you building modern-looking UI/UX for your homepages and websites?",
+            "slug": "/post",
+            "votes": 219,
+            "author": "IndieMark",
+            "authorImage": "https://",
+            "date": "20 Feb",
+            "comments": 7,
+            "commenters": ["https://", "https://"]
+        },
+        {
+            "title": "Do you think travel apps would be useful and relevant to you if they had the following features?",
+            "slug": "/post",
+            "votes": 197,
+            "author": "1undomk",
+            "authorImage": "https://",
+            "date": "19 Feb",
+            "comments": 14,
+            "commenters": ["https://", "https://"]
+        },
+        {
+            "title": "What are the best ways to find \"identify\" target audience changes for your product?",
+            "slug": "/post",
+            "votes": 194,
+            "author": "ElenMary182",
+            "authorImage": "https://",
+            "date": "19 Feb",
+            "comments": 49,
+            "commenters": ["https://", "https://"]
+        },
+        {
+            "title": "What is your method to test the product-market fit at an early stage product \"idea\"?",
+            "slug": "/post",
+            "votes": 142,
+            "author": "MaryLync77",
+            "authorImage": "https://",
+            "date": "18 Feb",
+            "comments": 29,
+            "commenters": ["https://", "https://"]
+        },
+        {
+            "title": "Can you suggest a better alternative than Google Analytics for tracking website traffic? 📈",
+            "slug": "/post",
+            "votes": 140,
+            "author": "PhilipSnyder",
+            "authorImage": "https://",
+            "date": "17 Feb",
+            "comments": 29,
+            "commenters": ["https://", "https://"]
+        },
+        {
+            "title": "What's your current favorite programming language and what killer feature is missing from it?",
+            "slug": "/post",
+            "votes": 136,
+            "author": "ElenMary182",
+            "authorImage": "https://",
+            "date": "16 Feb",
+            "comments": 112,
+            "commenters": ["https://", "https://"]
+        }
+    ]    
+}
